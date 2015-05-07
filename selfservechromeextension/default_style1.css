@@ -1,0 +1,12 @@
+body {
+    background-image: url("background.jpg");
+}
+
+.row-bottom-buffer {
+    margin-top: 10px;
+    margin-bottom: 5px;
+}
+
+.row-top-buffer {
+    margin-top: 10px;
+}

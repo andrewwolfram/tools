@@ -1,0 +1,12 @@
+{
+        "manifest_version": 2,
+        "name": "Core JS Injection Tool",
+        "description": "This extension injects our core js onto the active page, allowing you to see exit units and on-page ads",
+        "version": "1.0",
+
+        "browser_action": {
+                "default_icon": "default_icon.png",
+                "default_popup": "default_popup.html"
+        },
+        "permissions": ["activeTab", "http://*/", "https://*/"]
+}
